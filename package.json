@@ -1,0 +1,8 @@
+{
+  "name": "build-reducer",
+  "version": "1.0.1",
+  "description": "simplified way of producing a faster reducer",
+  "main": "index.js",
+  "author": "= <=>",
+  "license": "ISC"
+}
